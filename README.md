@@ -10,11 +10,11 @@ The following plots have been generated using the MATLAB scripts included in thi
 ## Input Power vs. Output Power Graphs
 The following plots have been generated using the MATLAB scripts included in this repository: <br />
 
-![](images/input_output_analysis.PNG)
+![](images/input_output_graphs.PNG)
 
 
 ## Input Power vs. Amplifier Gain Graphs
 The following plots have been generated using the MATLAB scripts included in this repository: <br />
 
-![](images/input_gain_analysis.PNG)
+![](images/input_gain_graphs.PNG)
 
