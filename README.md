@@ -2,7 +2,7 @@
 Performance analysis of an RF amplifier designed by Minicircuits (ZX60-43-S+). Amplifier compression is examined through output power and gain graphs. 
 
 ## Minicircuits RF Amplifier
-The following plots have been generated using the MATLAB scripts included in this repository: <br />
+The following figure shows the RF amplifier: <br />
 
 ![](images/minicircuits_rf_amp.PNG)
 
